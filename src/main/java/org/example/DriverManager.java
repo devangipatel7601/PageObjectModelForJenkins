@@ -21,7 +21,7 @@ public class DriverManager extends Utils{
     public String USERNAME = loadProp.getProperty("SAUCE_USERNAME");
     public String ACCESS_KEY = loadProp.getProperty("SAUCE_ACCESS_KEY");
     public String URL = "https://"+ USERNAME + ":" + ACCESS_KEY + "@ondemand.eu-central-1.saucelabs.com/wd/hub";
-    public boolean SAUCE_LAB =true;
+    public boolean SAUCE_LAB =false;
 
 
     public void openBrowser() {

@@ -37,7 +37,7 @@ public class TestSuite extends BaseTest{
         //click on login
         homePage.clickOnLogin();
 
-        //enter login detais
+        //enter login details
         loginPage.fillInLoginDetails();
 
         //click on good radio button
@@ -65,6 +65,8 @@ public class TestSuite extends BaseTest{
 
         //get leica camera text
         leicaTMirrorlessDigitalCameraPage.leicaCameraAddToCartAndShoppingCart();
+
+
 
         // to compare product name matched or not in shopping cart
         shoppingcartPage.compareProductNameInCart();

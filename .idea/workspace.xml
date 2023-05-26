@@ -5,27 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1aec3355-54c1-4613-b827-37c83869aa65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CameraAndPhotoPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ElectronicsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LeicaTMirrorlessDigitalCameraPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LoadProp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RegisterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RegisterResultPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ShoppingCartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/TestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testConfig/TestData.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LeicaTMirrorlessDigitalCameraPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LeicaTMirrorlessDigitalCameraPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Screenshots/VerifyRegisteredUserShouldBeAbleToVoteSuccessfully220523091934.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Screenshots/VerifyRegisteredUserShouldBeAbleToVoteSuccessfully220523092245.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Screenshots/verifyUserShouldBeAbleToRegisterSuccessfully240523082822.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Screenshots/verifyUserShouldBeAbleToSeeProductsInShoppingCartSuccessfully220523100317.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Screenshots/verifyUserShouldBeAbleToSeeProductsInShoppingCartSuccessfully220523102651.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Screenshots/verifyUserShouldBeAbleToSeeProductsInShoppingCartSuccessfully220523103213.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Screenshots/verifyUserShouldBeAbleToSeeProductsInShoppingCartSuccessfully220523103825.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Screenshots/verifyUserShouldBeAbleToSeeProductsInShoppingCartSuccessfully220523105206.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Screenshots/verifyUserShouldBeAbleToSeeProductsInShoppingCartSuccessfully220523105316.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Screenshots/verifyUserShouldBeAbleToSeeProductsInShoppingCartSuccessfully220523105534.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Screenshots/verifyUserShouldBeAbleToSeeProductsInShoppingCartSuccessfully250523060000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/TestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testConfig/TestData.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testConfig/TestData.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,8 +137,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.TestSuite" />
-        <item itemvalue="TestNG.TestSuite.verifyUserShouldBeAbleToSeeProductsInShoppingCartSuccessfully" />
         <item itemvalue="TestNG.TestSuite.verifyUserShouldBeAbleToRegisterSuccessfully" />
+        <item itemvalue="TestNG.TestSuite.verifyUserShouldBeAbleToSeeProductsInShoppingCartSuccessfully" />
         <item itemvalue="TestNG.TestSuite.VerifyRegisteredUserShouldBeAbleToVoteSuccessfully" />
       </list>
     </recent_temporary>
@@ -158,5 +153,10 @@
       <updated>1684772985121</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PageObjectModelForJenkins$TestSuite_verifyUserShouldBeAbleToSeeProductsInShoppingCartSuccessfully.ic" NAME="TestSuite.verifyUserShouldBeAbleToSeeProductsInShoppingCartSuccessfully Coverage Results" MODIFIED="1685129708653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
   </component>
 </project>
